@@ -10,7 +10,7 @@
 ▐░░▌     ▐░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌         
  ▀▀       ▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀       
                                                                                                                                                                                                                                                                                                                                                                                                                                                  ``
- I'm a creative and a creative technologist, marketing person and mar-tech person, brand person and brand strategy person. 
+ I'm a creative, brand, marketing, and engineer type person. 
  Here, you'll find my projects that span various domains, including:
 
 - 💻 Full-stack development
@@ -20,8 +20,8 @@
 
 ## 🌍 A Little About Me:
 - 🌆 I'm based in Brooklyn New York
-- 🚀 Currently working as a ** freelance software engineer ** mixing insights from years in brand and marketing — I can't do it all but I can sure try :) 
-- 🎧 Passionate about music, with 10 years previously at Ableton and i own a software company called **MW Devices**
+- 🚀 Currently working as a ** freelance software engineer **
+- 🎧 Passionate about music: 10 years at Ableton and i own a software company called **MW Devices**
 - 🏕️ + 🚵 Love to bike and camp, some times on the same trip 
 
 ## 🛠️ Tech Stack:
