@@ -15,4 +15,4 @@
 - 💻 Full-stack development
 - 🎶 Music technology tools & resources
 - 📊 SEO and MarTech techniques 
-- 🤖 Automation and AI toolsets.
+- 🤖 Automation and AI toolset
